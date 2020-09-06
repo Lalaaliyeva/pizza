@@ -1,0 +1,86 @@
+#logo {
+    border-radius: 50%;
+}
+
+.navbar-nav {
+    font-size: 150%;
+}
+
+.navbar-nav:hover {
+    font-size: 170%;
+}
+
+.display-4 {
+    margin-bottom: 0;
+}
+
+.display-4:hover {
+    background-color: rgba(175, 132, 107, 0.74);
+    color: black;
+    border-radius: 40%;
+}
+
+.display-6 {
+    color: #c52a25;
+    font-size: 300%;
+    text-shadow: silver;
+}
+
+.bord {
+    border: 3px solid red;
+    margin-top: 10%;
+    height: 500px;
+    padding-left: 5%;
+    border-radius: 20%;
+    background-color: rgba(146, 68, 13, 0.753);
+}
+
+.about {
+    text-align: center;
+    font-size: 300%;
+    color: red;
+    padding: 3%;
+
+
+}
+
+.us {
+    text-align: center;
+    border: 3px dotted red;
+    margin-top: 1%;
+    /* padding: 2rem; */
+}
+
+/* tabl
+    border-collapse: collapse;
+    background-color: rgb(192, 65, 65);
+    margin-left: 17%;
+    margin-bottom: 3;
+    width: 70%;
+    height: 60%;
+    font-size: 150%;
+} gozle margin right niye goturmedi? bilmedim gel ba*/
+
+
+td,
+th {
+    text-align: center;
+    border: 1px solid black;
+}
+
+/*new bizim yazdigimiz*/
+.nav-link.active {
+    background-color: hotpink !important;
+}
+
+.nav-link:hover {
+    color: black !important;
+}
+
+.contact-form {
+    width: 60%;
+    margin: auto;
+    margin-top: 5rem;
+    border: 1px solid #d9534f;
+    padding: 4rem;
+}
